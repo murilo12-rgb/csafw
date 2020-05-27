@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css/estilos.css">
-    <title>murilo</title>
 </head>
 <body>
     <header>
